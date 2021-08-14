@@ -25,3 +25,5 @@ dependencies:
   - typing_extensions
   - wheel
   - wrapt 
+  - spacy
+  - torchtext
